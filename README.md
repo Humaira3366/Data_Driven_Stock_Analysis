@@ -2,6 +2,9 @@
 
 This project provides a comprehensive data-driven analysis of Nifty 50 stock performance, combining data wrangling using Python (Pandas in Google Colab), interactive frontend using Streamlit, and insightful business intelligence visuals using Power BI.
 
+![image](https://github.com/user-attachments/assets/b08666f1-77d8-45fa-961b-fa2302cc3393)
+
+
 ---
 
 ## 🔍 Project Objective
