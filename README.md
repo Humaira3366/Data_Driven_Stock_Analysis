@@ -1,4 +1,4 @@
-#📊 Data_Driven_Stock_Analysis: Pandas + Streamlit + Power BI
+📊 Data_Driven_Stock_Analysis: Pandas + Streamlit + Power BI
 
 This project provides a comprehensive data-driven analysis of Nifty 50 stock performance, combining data wrangling using Python (Pandas in Google Colab), interactive frontend using Streamlit, and insightful business intelligence visuals using Power BI.
 
